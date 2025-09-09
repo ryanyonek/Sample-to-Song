@@ -2,7 +2,7 @@
 ## Background
 I used the music programming language ChucK and a single audio sample of myself playing trombone to create a computerized audio playback of Vienna Teng's composition **"The Hymn of Acxiom"**. This project showcases the ability of a music programming language to create a musically complex song with volume, note length, and pitch components stemming from a single sample note.
 
-**Final Output:** https://github.com/user-attachments/assets/6e7828cf-0fa1-48e4-a99c-52371a34edbe
+**Final Output:** https://github.com/user-attachments/assets/e65b0251-c4fc-4cdb-a4c3-b4979b3426e7
 
 **Sheet Music Reference:** [Hymn_of_Acxiom-Score_and_Parts.pdf](https://github.com/user-attachments/files/22237740/Hymn_of_Acxiom-Score_and_Parts.pdf)
 
