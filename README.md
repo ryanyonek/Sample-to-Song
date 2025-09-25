@@ -6,7 +6,7 @@ I used the music programming language ChucK and a single audio sample of myself 
 
 **Sheet Music Reference:** [Hymn_of_Acxiom-Score_and_Parts.pdf](https://github.com/user-attachments/files/22237740/Hymn_of_Acxiom-Score_and_Parts.pdf)
 
-I highly recommend you check out the inspiration for this work ->
+I highly recommend you check out the inspiration for this project ->
 **Vienna Teng's Original Song:** https://www.youtube.com/watch?v=QF-7WiLykGM
 
 Learn more about **ChucK** here: https://chuck.cs.princeton.edu/
