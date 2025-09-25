@@ -1,6 +1,6 @@
 # Sample-to-Song V.1.0 (9/9/25)
 ## Background
-I used the music programming language ChucK and a single audio sample of myself playing trombone to create a computerized audio playback of Vienna Teng's composition **"The Hymn of Acxiom"**. This project showcases the ability of a music programming language to create a musically complex song with volume, note length, and pitch components stemming from a single sample note.
+I used the music programming language ChucK and a single audio sample of myself playing trombone to create a computerized audio playback of Vienna Teng's song, **"The Hymn of Acxiom"**. This project showcases the ability of a music programming language to create a musically complex song with volume, note length, and pitch components stemming from a single sample note.
 
 **Final Output:** https://github.com/user-attachments/assets/e65b0251-c4fc-4cdb-a4c3-b4979b3426e7
 
