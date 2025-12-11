@@ -10,7 +10,8 @@ I highly recommend you check out the inspiration for this project ->
 **Vienna Teng's Original Song:** https://www.youtube.com/watch?v=QF-7WiLykGM
 
 Learn more about **ChucK** here: https://chuck.cs.princeton.edu/
-Video tutorial series by Clint Hoagland here: https://www.youtube.com/watch?v=toFvb6uqiDc&list=PL-9SSIBe1phI_r3JsylOZXZyAXuEKRJOS
+
+Video tutorial series for ChucK by Clint Hoagland here: https://www.youtube.com/watch?v=toFvb6uqiDc&list=PL-9SSIBe1phI_r3JsylOZXZyAXuEKRJOS
 
 ## Usage
 ### Install Required Software
